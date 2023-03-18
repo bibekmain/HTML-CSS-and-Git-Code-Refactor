@@ -1,11 +1,15 @@
-# Hwmk-1
-01 HTML, CSS, and Git: Code Refactor
+# Hwmk-1: 01 HTML, CSS, and Git: Code Refactor
 
+
+## Description of my changes
+
+```
 This is my completed submission for Homwork-1.
 I was able to change certain elements into semantic elements for better accessibility.
 I was able to change the structure of the index.html file so that other developers don't have a hard time reading it.
 I was able to include alt attributes to each image, except for the background image.
 I was use a descriptive title for the webpage.
+```
 
 ## User Story
 

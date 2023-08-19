@@ -1,4 +1,4 @@
-# Hwmk-1: 01 HTML, CSS, and Git: Code Refactor
+# HTML, CSS, and Git: Code Refactor
 
 
 ## Description of my changes
